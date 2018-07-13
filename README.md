@@ -2,7 +2,7 @@
 ## Udacity Deep Learning Nanodegree:
 Built an algorithm to identify canine breed given an image of a dog. If given image of a human, the algorithm identifies a resembling dog breed.
 # How to Run
-1) Clone the following datasets and VGG file: https://github.com/udacity/dog-project; then place them in this repo
+1) Clone the following datasets and VGG file: " https://github.com/udacity/dog-project" then place them in this repo
 2) Install pip
 3) Install jupyter notebooks by running "pip3 install jupyter"
 4) Clone the repository
