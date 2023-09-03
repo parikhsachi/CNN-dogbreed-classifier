@@ -1,4 +1,4 @@
-# Convulutional Neural Network (CNN) Dogbreed Classifier:
+# Convolutional Neural Network (CNN) Dogbreed Classifier:
 ## Udacity Deep Learning Nanodegree:
 Built an algorithm to identify canine breed given an image of a dog. If given image of a human, the algorithm identifies a resembling dog breed.
 # How to Run
